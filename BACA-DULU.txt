@@ -1,0 +1,19 @@
+ABSENSI TAMU ACARA v1.4 - PAKET ANDROID TANPA INTERNET
+
+Isi paket (semua file harus ikut diunggah, jangan ada yang ditinggal):
+  index.html, sw.js, manifest.json, icon-192.png, icon-512.png, icon-maskable-512.png, apple-touch-icon.png
+
+Cara pasang sekali saja (butuh internet hanya untuk langkah ini):
+1. Buat akun di github.com lalu buat repositori baru dengan visibilitas Public.
+2. Pilih Add file, lalu Upload files. Tarik semua file paket ini ke halaman itu, lalu tekan Commit changes.
+3. Buka Settings, lalu Pages. Pada Source pilih Deploy from a branch. Pilih branch main dan folder /(root), lalu Save.
+4. Tunggu satu sampai dua menit. Alamat aplikasi tampil di halaman Pages, bentuknya https://namaakun.github.io/namarepositori/
+5. Buka alamat itu di Chrome pada HP Android dengan internet menyala. Tunggu kartu Pemakaian Tanpa Internet di menu Atur berubah menjadi Siap dipakai tanpa internet.
+6. Tekan Pasang Aplikasi, atau menu titik tiga Chrome lalu Instal aplikasi.
+7. Mulai sekarang buka lewat ikon di layar utama. Tidak perlu internet lagi, kamera tetap bisa dipakai.
+
+Penting:
+- Data tamu tersimpan terpisah di tiap HP dan tiap alamat. Pulihkan data lewat file cadangan JSON di menu Atur.
+- Jangan hapus data situs atau cache Chrome sebelum acara selesai. Unduh cadangan lebih dulu.
+- Uji dulu sehari sebelum acara dengan mode pesawat.
+- Di laptop, file index.html tetap bisa dibuka langsung dengan klik dua kali.

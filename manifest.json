@@ -1,0 +1,20 @@
+{
+  "name": "Absensi Tamu Acara",
+  "short_name": "Absensi Tamu",
+  "description": "Absensi tamu Wisuda dan Pelantikan dengan scan QR atau alat barcode. Berjalan tanpa internet.",
+  "lang": "id",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f2a4a",
+  "theme_color": "#0f2a4a",
+  "categories": ["productivity", "business"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
